@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DBOprationEFAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+152e58f0b3114678e9fb36ad10cfc003c6001be6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4859dacba3c3e5fea21da55000079d22eec522e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DBOprationEFAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DBOprationEFAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
